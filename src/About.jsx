@@ -43,7 +43,7 @@ export const About = () => {
             Using Framework With React JS and Bootstrap 4
           </li>
         <div className="my-3">
-          You can download this project  <a target="_blank" href="https://github.com/Andrarizal/FrontEndAPI.git" className='text-warning'>here</a>
+          You can download this project  <a target="_blank" href="https://github.com/Andrarizal/FrontEndAPI.git" className='text-warning'>read more</a>
         </div>
         Thanks!
       </div>
